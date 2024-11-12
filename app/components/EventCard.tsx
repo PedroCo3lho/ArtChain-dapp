@@ -70,7 +70,7 @@ const EventCard: React.FC<EventCardProps> = ({ event, isLoggedIn }) => {
                     "estudante": "PEDRO COELHO NASCIMENTO",
                     "curso": "MESTRADO EM FILOSOFIA",
                     "instituicaoDeEnsino": "POLI-UFRJ",
-                    "dataDeParticipacao": "10-15-2024",
+                    "dataDeParticipacao": "11-12-2024",
                     "horasEquivalentes": "12",
                     "nomeDoEvento": "${event.title}",
                     "idDoEvento": "X4321",

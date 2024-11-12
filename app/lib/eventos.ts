@@ -28,11 +28,11 @@ export const mockUserEvents: Event[] = [
     },
     {
         id: 102,
-        title: "ArtChain Workshop",
-        date: formatDate(nextWeek),
+        title: "Workshop Arte em Web3",
+        date: formatDate(currentDate),
         location: "Online",
-        category: "Competição",
-        imageUrl: basepath + "art16-m7VwEqqqayhPpMrl.jpg",
+        category: "Workshop",
+        imageUrl: "https://ipfs.io/ipfs/QmRfiGAx61bwY3oEgpn3pD2ANmhCuLJTsaw2ANDVut25H5",
     },
 ];
 
